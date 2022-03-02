@@ -1,0 +1,2 @@
+# Turn_based_game
+Console Turn-based game similar to Pokomen game We play with computer ( we can choose game level). At the beginning, we can choose a new game or load a save. If we choosed new game we can choose level and six Pokemons that we are going to play. Opponents can have from 4 to 6 pokemons depending on the game level. We can boost statistics or evolve pokemons. Pokemons can use normal or special attack. After winnig a battle with opponent we can save and quit the game. If we win with four opponents we win game.
